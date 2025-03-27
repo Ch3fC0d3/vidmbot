@@ -137,7 +137,15 @@ PHONE_NUMBER = '+16462839825'  # Example: +123456789
 CHANNEL_USERNAME = 'your_channel_username_here'
 
 # Your message
-MESSAGE = "We're looking for people to try out our new member intake process! This will help speed up future onboarding while also allowing us to match you with the best groups for your skills and interests! Follow the link @May_Day2_Bot"
+MESSAGE = """Hey You! 
+
+We've missed you! We're gearing up for some exciting events starting this weekend, and we'd love for you to be a part of it. It's time to come back together, take action, and make an impact.
+
+Check out the details and reach out. We need your energy and ideas now more than ever!
+
+Let's do this! 
+
+You can connect with us here: t.me/VIPlacement_bot or https://t.me/+cVFRbC9KYHJmZTQx"""
 
 # Create a Telegram client session
 client = TelegramClient('session_name', API_ID, API_HASH)
